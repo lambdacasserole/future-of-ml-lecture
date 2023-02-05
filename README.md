@@ -79,3 +79,7 @@ This example will take input via the computer's microphone and attempt to transc
 ```bash
 python3 speech_recognition.py
 ```
+
+## Limitations
+These examples are just that: examples. They're designed to be the absolute minimum required to get something working. Why not try building upon them or chaining them together into something more advanced?
+
