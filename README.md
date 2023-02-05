@@ -74,4 +74,8 @@ Note that this script will throw an error if it fails to detect a face. Don't wo
 Each of these numbers shows a confidence score (out of 100) that the given emotion is present in the facial expression of the individual pictured.
 
 ### Speech Recognition (`./speech_recognition.py`)
-This example will take input via the computer's microphone and attempt to transcribe it into accurate text (it's not always 100% accurate).
+This example will take input via the computer's microphone and attempt to transcribe it into accurate text (it's not always 100% accurate). Run it like this:
+
+```bash
+python3 speech_recognition.py
+```
